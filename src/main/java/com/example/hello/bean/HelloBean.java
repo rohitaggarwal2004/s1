@@ -20,7 +20,7 @@ public class HelloBean {
 		this.text = text;
 	}
 
-	protected HelloBean() {
+	public HelloBean() {
 
 	}
 
